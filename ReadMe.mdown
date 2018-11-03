@@ -1,0 +1,5 @@
+# ReadMe
+### This code is to decide which drug to be given to patients based on historical data
+
+## Dataset Dictionary
+Labels are pretty much self explanotory
